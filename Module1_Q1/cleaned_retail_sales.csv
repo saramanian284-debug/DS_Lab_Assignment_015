@@ -1,0 +1,16 @@
+OrderID,CustomerID,ProductCategory,SalesAmount,Region,OrderDate,Imputation_Method
+1,101,Electronics,5000.0,South,2023-01-01,
+2,102,Electronics,4900.0,South,2023-01-02,Regional_Median
+3,103,Clothing,1500.0,North,2023-01-03,
+4,104,Electronics,4900.0,South,2023-01-04,Regional_Median
+5,105,Clothing,2000.0,West,2023-01-05,
+6,106,Electronics,4500.0,North,2023-01-06,
+7,107,Furniture,3000.0,South,2023-01-07,
+8,108,Electronics,4900.0,South,2023-01-08,Regional_Median
+9,109,Furniture,3500.0,West,2023-01-09,
+10,110,Clothing,1800.0,East,2023-01-10,
+11,111,Electronics,4900.0,South,2023-01-11,Regional_Median
+12,112,Furniture,3200.0,North,2023-01-12,
+13,113,Electronics,4800.0,South,2023-01-13,
+14,114,Clothing,2100.0,East,2023-01-14,
+15,115,Electronics,4900.0,South,2023-01-15,Regional_Median
